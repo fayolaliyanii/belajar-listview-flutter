@@ -1,16 +1,8 @@
-# belajar_navigation1
+Belajar listview flutter
 
-A new Flutter project.
+-Pada halaman home menuju halamanPortofolio 
 
-## Getting Started
+![image](https://github.com/fayolaliyanii/belajar-listview-flutter/assets/101540761/29d2e530-c319-4fff-9c9e-084a7973a8e0)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Pada saat tap project 1 akan muncul 
+![image](https://github.com/fayolaliyanii/belajar-listview-flutter/assets/101540761/a69bdbba-5f85-4b95-86db-c82aa2bfe58c)
